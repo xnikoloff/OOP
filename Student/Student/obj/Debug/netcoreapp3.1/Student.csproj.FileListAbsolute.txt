@@ -1,0 +1,11 @@
+C:\Users\xniko\source\repos\Student\Student\bin\Debug\netcoreapp3.1\Student.exe
+C:\Users\xniko\source\repos\Student\Student\bin\Debug\netcoreapp3.1\Student.deps.json
+C:\Users\xniko\source\repos\Student\Student\bin\Debug\netcoreapp3.1\Student.runtimeconfig.json
+C:\Users\xniko\source\repos\Student\Student\bin\Debug\netcoreapp3.1\Student.runtimeconfig.dev.json
+C:\Users\xniko\source\repos\Student\Student\bin\Debug\netcoreapp3.1\Student.dll
+C:\Users\xniko\source\repos\Student\Student\bin\Debug\netcoreapp3.1\Student.pdb
+C:\Users\xniko\source\repos\Student\Student\obj\Debug\netcoreapp3.1\Student.csprojAssemblyReference.cache
+C:\Users\xniko\source\repos\Student\Student\obj\Debug\netcoreapp3.1\Student.AssemblyInfoInputs.cache
+C:\Users\xniko\source\repos\Student\Student\obj\Debug\netcoreapp3.1\Student.AssemblyInfo.cs
+C:\Users\xniko\source\repos\Student\Student\obj\Debug\netcoreapp3.1\Student.dll
+C:\Users\xniko\source\repos\Student\Student\obj\Debug\netcoreapp3.1\Student.pdb

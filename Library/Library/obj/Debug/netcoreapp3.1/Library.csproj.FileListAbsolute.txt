@@ -1,0 +1,11 @@
+C:\Users\xniko\source\repos\Library\Library\bin\Debug\netcoreapp3.1\Library.exe
+C:\Users\xniko\source\repos\Library\Library\bin\Debug\netcoreapp3.1\Library.deps.json
+C:\Users\xniko\source\repos\Library\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.json
+C:\Users\xniko\source\repos\Library\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.dev.json
+C:\Users\xniko\source\repos\Library\Library\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\xniko\source\repos\Library\Library\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\xniko\source\repos\Library\Library\obj\Debug\netcoreapp3.1\Library.csprojAssemblyReference.cache
+C:\Users\xniko\source\repos\Library\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfoInputs.cache
+C:\Users\xniko\source\repos\Library\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfo.cs
+C:\Users\xniko\source\repos\Library\Library\obj\Debug\netcoreapp3.1\Library.dll
+C:\Users\xniko\source\repos\Library\Library\obj\Debug\netcoreapp3.1\Library.pdb

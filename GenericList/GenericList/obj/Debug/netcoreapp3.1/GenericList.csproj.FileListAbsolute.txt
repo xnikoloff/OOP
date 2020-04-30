@@ -1,0 +1,11 @@
+C:\Users\xniko\source\repos\GenericList\GenericList\bin\Debug\netcoreapp3.1\GenericList.exe
+C:\Users\xniko\source\repos\GenericList\GenericList\bin\Debug\netcoreapp3.1\GenericList.deps.json
+C:\Users\xniko\source\repos\GenericList\GenericList\bin\Debug\netcoreapp3.1\GenericList.runtimeconfig.json
+C:\Users\xniko\source\repos\GenericList\GenericList\bin\Debug\netcoreapp3.1\GenericList.runtimeconfig.dev.json
+C:\Users\xniko\source\repos\GenericList\GenericList\bin\Debug\netcoreapp3.1\GenericList.dll
+C:\Users\xniko\source\repos\GenericList\GenericList\bin\Debug\netcoreapp3.1\GenericList.pdb
+C:\Users\xniko\source\repos\GenericList\GenericList\obj\Debug\netcoreapp3.1\GenericList.csprojAssemblyReference.cache
+C:\Users\xniko\source\repos\GenericList\GenericList\obj\Debug\netcoreapp3.1\GenericList.AssemblyInfoInputs.cache
+C:\Users\xniko\source\repos\GenericList\GenericList\obj\Debug\netcoreapp3.1\GenericList.AssemblyInfo.cs
+C:\Users\xniko\source\repos\GenericList\GenericList\obj\Debug\netcoreapp3.1\GenericList.dll
+C:\Users\xniko\source\repos\GenericList\GenericList\obj\Debug\netcoreapp3.1\GenericList.pdb
